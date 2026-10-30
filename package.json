@@ -1,0 +1,9 @@
+{
+  "name": "aurelle-atomizers",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Refined fragrance accessories & perfume atomizer bottles",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}

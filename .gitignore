@@ -1,0 +1,12 @@
+# Vercel & dependencies
+.vercel
+node_modules/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Backups
+NO-NEED/
+Trash/
+about2.html

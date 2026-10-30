@@ -1,0 +1,10 @@
+# Vercel Ignore File
+# Prevents unused or backup files from being included in the deployment
+NO-NEED/
+Trash/
+about2.html
+README.txt
+.git/
+.gitignore
+.vercel/
+node_modules/

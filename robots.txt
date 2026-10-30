@@ -1,0 +1,5 @@
+# Robots.txt for Aurelle Atomizers
+User-agent: *
+Allow: /
+
+Sitemap: https://aurelleatomizers.vercel.app/sitemap.xml
